@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
 		for (int i = 0; i < itemCount; i++) {
 			ImageView item = new ImageView(this);
 			item.setImageResource(ITEM_DRAWABLES[i]);
-
+////1222222222222222333335
 			final int position = i;
 			rayMenu.addItem(item, new OnClickListener() {
 
