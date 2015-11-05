@@ -40,6 +40,7 @@ public class MainActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
+		////11111111111111111111111111
 
 		ArcMenu arcMenu = (ArcMenu) findViewById(R.id.arc_menu);
         ArcMenu arcMenu2 = (ArcMenu) findViewById(R.id.arc_menu_2);
